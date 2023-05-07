@@ -1,3 +1,6 @@
+//Este codigo corresponde a la grafica realizada en MATLAB para las curvas de nivel v(x, y) = y − y/x^2+y^2 = c, para c = 0, ±0.25, ±0.5, ±0.75, ±1, ±1.25.
+
+
 x = linspace(-5,5,1000);
 
 [X1,Y1] = meshgrid(x,x);

@@ -1,3 +1,5 @@
+//Este codigo corresponde a la grafica realizada en MATLAB para las curvas de nivel v(x, y) = y − 2xy = c1 son la familia de curvas u(x, y) = x − x^2 + y^2 = c2
+
 x=linspace(-5,5,1000);
 x01=[0.5 0.5];
 y01=[-3,3];
